@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
+  "name": "alarm-linkage",
   "version": "2.4.1",
   "description": "Angular 5 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "homepage": "https://github.com/hulinux/alarm-linkage",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Hu Ling",
+    "email": "huling4u@163.com"
   },
   "keywords": [
     "angular",
@@ -68,7 +68,7 @@
     "cross-env": "5.0.5",
     "css-loader": "0.28.7",
     "cssnano": "3.10.0",
-    "electron": "1.7.8",
+    "electron": "1.7.10",
     "electron-builder": "19.45.4",
     "electron-reload": "1.2.1",
     "exports-loader": "0.6.4",
